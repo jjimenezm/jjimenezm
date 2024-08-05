@@ -1,5 +1,3 @@
-# 💫 About Me:
-I'm currently working as a Backend Developer on MuySimple Spa<br><br>I'm looking for help with Kubernetes <br>I'm currently learning Jenkins<br>
 
 
 ## 🌐 Socials:
